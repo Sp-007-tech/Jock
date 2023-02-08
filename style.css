@@ -18,7 +18,7 @@ body {
     top: 50%;
     left: 50%;
     border-radius: 10px;
-    box-shadow: 20px 20px 40px rgba(97, 63, 0, 0.4);
+    box-shadow: 20px 20px 40px rgba(97, 63, 0, 0.7);
 }
 
 span {
